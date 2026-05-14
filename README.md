@@ -1,20 +1,28 @@
-Igor Florêncio
+👋 Olá, eu sou o Igor Florêncio
 
 Tenho 30 anos, moro em Fortaleza e atualmente estou em transição de carreira para a tecnologia. Meu objetivo é me tornar um desenvolvedor Full-Stack, focando no ecossistema JavaScript.
 
-Um pouco sobre mim
+🚀 Um pouco sobre mim
 
-Saí de uma área diferente e estou construindo minha base na programação. A disciplina que trouxe da rotina de treinos na academia tem me ajudado muito a manter a constância nos estudos. Quando não estou codando, provavelmente estou jogando alguma coisa ou praticando meu inglês.
+Estou saindo de uma área totalmente diferente e construindo minha base na programação do zero. A disciplina que trouxe da rotina de treinos na academia tem sido minha maior aliada para manter a constância nos estudos. Quando não estou codando, provavelmente estou jogando alguma coisa ou praticando meu inglês.
 
-No que estou trabalhando agora:
+🛠️ No que estou trabalhando agora:
 
-Linguagens e Web: Focado em dominar HTML5, CSS3 e o JavaScript puro (ES6+).
+Linguagens e Web:
 
 Próximos passos: Começar a explorar React para o front e Node.js para o back-end.
 
-Idiomas: Estudando inglês de forma autodidata/online para conseguir ler documentações e me comunicar melhor na área.
+Idiomas: 🇺🇸 Estudando inglês de forma autodidata/online para conseguir ler documentações e me comunicar melhor na área.
 
-Onde me encontrar:
+🎮 Interesses e Hobbies:
+
+🏋️‍♂️ Musculação e vida saudável
+
+🕹️ Games (PC/Console)
+
+📚 Aprendizado contínuo
+
+📫 Onde me encontrar:
 
 E-mail: igor_florencio@yahoo.com
 
